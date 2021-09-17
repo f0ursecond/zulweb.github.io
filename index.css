@@ -64,6 +64,10 @@ ul {
 
 ul li {
     display: inline-block;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 10px;
+    float: right;
 }
 
 ul li a {
